@@ -1,0 +1,19 @@
+/***************************************************
+ * dynaTrace Diagnostics (c) dynaTrace software GmbH
+ *
+ * @file: Car.java
+ * @date: 10.12.2015
+ * @author: mostafa.abdelkhalek
+ */
+package org.test.m2.impl;
+
+import org.test.m1.api.Wheel;
+import org.test.m2.api.Car;
+
+/**
+ * @author mostafa.abdelkhalek
+ */
+public class CarImpl implements Car{
+
+	Wheel wheel;
+}

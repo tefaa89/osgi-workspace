@@ -1,0 +1,17 @@
+/***************************************************
+ * dynaTrace Diagnostics (c) dynaTrace software GmbH
+ *
+ * @file: Car.java
+ * @date: 10.12.2015
+ * @author: mostafa.abdelkhalek
+ */
+package org.test.m3.impl;
+
+import org.test.m3.api.M3;
+
+/**
+ * @author mostafa.abdelkhalek
+ */
+public class M3Impl implements M3{
+
+}

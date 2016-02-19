@@ -1,0 +1,8 @@
+package osgi_sample_m1;
+
+public class Snippet {
+	public static void main(String[] args) {
+		osgi_sample_m2
+	}
+}
+

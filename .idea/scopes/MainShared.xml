@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="MainShared" pattern="file[*]:*/main/java//*||file[*]:*/cucumber/java//*" />
+</component>

@@ -1,0 +1,17 @@
+/***************************************************
+ * dynaTrace Diagnostics (c) dynaTrace software GmbH
+ *
+ * @file: Wheel.java
+ * @date: 10.12.2015
+ * @author: mostafa.abdelkhalek
+ */
+package org.test.m1.impl;
+
+import org.test.m1.api.Wheel;
+
+/**
+ * @author mostafa.abdelkhalek
+ */
+public class WheelImpl implements Wheel {
+
+}
